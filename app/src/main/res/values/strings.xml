@@ -1,0 +1,309 @@
+<resources>
+    <string name="app_name">ValequizApp</string>
+    <!-- Category name for phrases [Char limit=20]  -->
+    <string name="category_phrases">Phrases</string>
+
+    <!-- Category name for the vocabulary words for colors [Char limit=20]  -->
+    <string name="category_colors">Colors</string>
+
+    <!-- Category name for the vocabulary words for numbers [Char limit=20]  -->
+    <string name="category_numbers">Numbers</string>
+
+
+    <!-- Category name for the vocabulary words for family members [Char limit=20]  -->
+    <string name="category_family">Family Members</string>
+
+    <!--Enter Your Name Field-->
+    <string name="enter_your_name">Enter Your Name</string>
+<!--movies -->
+    <!--Question 1-->
+    <string name="num_question_1">Question 1</string>
+    <string name="question_1">What was the first movie Helly Berry acted</string>
+
+    <!--Answers to the question 1-->
+    <string name="redundancy">boomerang</string>
+    <string name="availability">x_men</string>
+    <string name="integrity">die_another_day</string>
+    <string name="confidentiality">days_of_future_past</string>
+    <string name="remote_access">i_am_number_four</string>
+
+
+    <!--Question 1-->
+    <string name="num_question_1.1">Question 1.1</string>
+    <string name="question_1.1">Who was the first black president in SA</string>
+    <!--Answers to the question 1-->
+    <string name="redundancyy">jacob_zuma</string>
+    <string name="availabilityy">thabo_mbeki</string>
+    <string name="integrityy">or_tambo</string>
+    <string name="confidentialityy">Nelso_mandela</string>
+    <string name="remote_accesss">ramaphosa</string>
+
+    <!--Question 1-->
+    <string name="num_question_1.1.1">Question 1.1.1</string>
+    <string name="question_1.1.1">who won song of the year award in metro awards 2017</string>
+    <!--Answers to the question 1-->
+    <string name="redundancyyy">nasty_c</string>
+    <string name="availabilityyy">dr_tumi</string>
+    <string name="integrityyy">amanda_black</string>
+    <string name="confidentialityyy">musa</string>
+    <string name="remote_accessss">king_monada</string>
+
+
+
+    <!--Question 1-->
+    <string name="num_question_1.1.1.1">Question 1.1.1.1</string>
+    <string name="question_1.1.1.1">which country is going to host  the next world cup</string>
+    <!--Answers to the question 1-->
+    <string name="redundancyyyy">Ghana</string>
+    <string name="availabilityyyy">USA</string>
+    <string name="integrityyyy">Rushia</string>
+    <string name="confidentialityyyy">South_Africa</string>
+    <string name="remote_accesssss">Zambia</string>
+
+
+    <!--Question 2-->
+    <string name="num_question_2">Question 2</string>
+    <string name="question_2">The latested Romatic movie acted by Jada Pinkett Smith?</string>
+    <!--Answers to the question 2-->
+    <string name="answer_2_1">man-on_fire</string>
+    <string name="answer_2_2">the_last_ship</string>
+    <string name="answer_2_3">why_did_i_get_married</string>
+    <string name="answer_2_4">girls_trip</string>
+
+
+
+    <!--Question 2.1-->
+    <string name="num_question_2.1">Question 2.1</string>
+    <string name="question_2.1">Who is the current minister of police?</string>
+    <!--Answers to the question 2-->
+    <string name="answer_2_1_1">lindiwe_zulu</string>
+    <string name="answer_2_2_2">ayanda_dlodlop</string>
+    <string name="answer_2_3_3">fikile_mbalula</string>
+    <string name="answer_2_4_4">grace_pandor</string>
+
+
+    <!--Question 2.1-->
+    <string name="num_question_2.1.1">Question 2.1.1</string>
+    <string name="question_2.1.1">The celebrities who got married in  2017</string>
+    <!--Answers to the question 2-->
+    <string name="answer_2_1_1_1">mininhle_dlamini</string>
+    <string name="answer_2_2_2_2">nandi-ngoma</string>
+    <string name="answer_2_3_3_3">black_coffee</string>
+    <string name="answer_2_4_4_4">sahara</string>
+    <string name="answer_2_4_4_5">pearl_modiadie</string>
+
+
+
+    <!--Question 2.1-->
+    <string name="num_question_2.1.1.1">Question 2.1.1.1</string>
+    <string name="question_2.1.1.1">number one team in absa premier league</string>
+    <!--Answers to the question 2-->
+    <string name="answer_2_1_1_1_1">baroka_fc</string>
+    <string name="answer_2_2_2_2_2">cape_town_city</string>
+    <string name="answer_2_3_3_3_3">kaizer_chiefs</string>
+    <string name="answer_2_4_4_4_4">golden_arrows</string>
+    <string name="answer_2_4_4_5_5">orlando_pirates</string>
+
+
+
+    <!--Question 3-->
+    <string name="num_question_3">Question 3</string>
+    <string name="question_3">The new action movie on cinema before december</string>
+
+    <!--Answers to the question 3-->
+    <string name="publ">Justin_league</string>
+    <string name="sensitive">Revolt</string>
+    <string name="confidential">cellular</string>
+    <string name="_private">american_assasin</string>
+    <string name="trusty_worthy">star_wars_the_last_jedi</string>
+
+    <!--Question 3-->
+    <string name="num_question_3.1">Question 3.1</string>
+    <string name="question_3.1">When is the next national election in SA</string>
+
+    <!--Answers to the question 3-->
+    <string name="tech">MAY_2018</string>
+    <string name="tech2">MAY_2019</string>
+    <string name="tech3">MAY_2020</string>
+    <string name="tech4">MAY_2021</string>
+
+
+    <!--Question 3-->
+    <string name="num_question_3.1.1">Question 3.1.1</string>
+    <string name="question_3.1.1">who are the richest musician in SA"</string>
+
+    <!--Answers to the question 3-->
+    <string name="tech1">JUB_JUB</string>
+    <string name="tech222">Oskido</string>
+    <string name="tech333">cassper_nyovest</string>
+    <string name="tech444">khanyi_mbau</string>
+    <string name="tech455">zinhle</string>
+
+    <!--Question 3-->
+    <string name="num_question_3.1.1.1">Question 3.1.1.1</string>
+    <string name="question_3.1.1.1">which country won the soccer world cup in 2010</string>
+
+    <!--Answers to the question 3-->
+    <string name="tech111">south_africa</string>
+    <string name="tech2222">cameroon</string>
+    <string name="tech3333">zambia</string>
+    <string name="tech4444">spain</string>
+
+
+
+
+
+    <!--Question 4-->
+    <string name="question_4">The last thirller movie acted by Charlize Theron?</string>
+    <string name="num_question_4">Question 4</string>
+
+    <!--Answers to the question 4-->
+    <string name="managerial">the_snowman</string>
+    <string name="physical">happy_deth</string>
+    <string name="logical">atomic_blonde</string>
+    <string name="administrative">Administrative</string>
+    <string name="geographical">Geographical</string>
+    <!--Question 4-->
+    <string name="question_4.1.1">When was the ANC formed</string>
+    <string name="num_question_4_1.1">Question 4.1.1</string>
+
+    <!--Answers to the question 3-->
+    <string name="redundancy11">January_1952</string>
+    <string name="redundancy22">january_1912</string>
+    <string name="redundancy33">february_1963</string>
+    <string name="redundancy44">april_1920</string>
+
+
+    <!--Question 4-->
+    <string name="question_4.1">celebrities who went down from there careers</string>
+    <string name="num_question_4_1">Question 4.1</string>
+
+    <!--Answers to the question 3-->
+    <string name="redundancy1">vinolia_masego</string>
+    <string name="redundency2">zola7</string>
+    <string name="redundancy3">steve_lekoelea</string>
+    <string name="redundancy4">pearl_thusi</string>
+    <string name="redundancy5">dj_tira</string>
+
+    <!--Question 4-->
+    <string name="question_4.1.1.1">who is the coach of bafana bafana</string>
+    <string name="num_question_4_1_1_1">Question 4.1.1.1</string>
+
+    <!--Answers to the question 3-->
+    <string name="redundancy111">stuart_barter</string>
+    <string name="redundancy222">steave_kompela</string>
+    <string name="redundancy333">pitso</string>
+    <string name="redundancy444">doctor_khumalo</string>
+    <string name="redundancy555">bennie_machathy</string>
+
+
+    <!--Question 5-->
+    <string name="num_question_5">Question 5</string>
+    <string name="question_5">which movie was written by Tyler Perry in 2017</string>
+
+    <!--Answers to the question 5-->
+    <string name="answer_5_1">temptation</string>
+    <string name="answer_5_2">for_colore_girls</string>
+    <string name="answer_5_3">good_dees</string>
+    <string name="answer_5_4">boo_a_madea_halloween</string>
+    <string name="answer_5_5">madeas_neighbors_from_hel</string>
+
+
+
+    <!--Question 5-->
+    <string name="num_question_55">Question 55</string>
+    <string name="question_55">WHO HAS THE HIGHEST RUNS IN PROTEAS </string>
+
+    <!--Answers to the question 5-->
+    <string name="answer_5_1_1">JH_Kallis</string>
+    <string name="answer_5_2_2">GC_Smith</string>
+    <string name="answer_5_3_3">HM_Amla</string>
+    <string name="answer_5_4_4">AB_DE_Villiers</string>
+    <string name="answer_5_5_5">G_Kirsten</string>
+
+
+
+    <!--Question 5-->
+    <string name="num_question_50">Question 5</string>
+    <string name="question_50">Who is the first SA actress to be featured on american soap the bold and the beatiful </string>
+
+    <!--Answers to the question 5-->
+    <string name="answer_5_1_1_1">Terry_Pheto</string>
+    <string name="answer_5_2_2_1">Pearl_Thusi</string>
+    <string name="answer_5_3_3_3">Sindi_Dlathu</string>
+    <string name="answer_5_4_4_4">Baby_CELE</string>
+    <string name="answer_5_5_5_5">Boitumelo_Thulo</string>
+
+
+    <!--Question 5-->
+    <string name="num_question_51">Question 5</string>
+    <string name="question_51">Who was the firt person to win a novel peace price in South Africa? </string>
+
+    <!--Answers to the question 5-->
+    <string name="answer_5_1_1_1_1">Albert Luthuli</string>
+    <string name="answer_5_2_2_1_1">Desmond _Tutu</string>
+    <string name="answer_5_3_3_3_1">FW_DE_Klerk</string>
+    <string name="answer_5_4_4_4_1">Nelson_Mandela</string>
+    <string name="answer_5_5_5_5_1">OR_Tambo</string>
+
+
+    <!--Question 6-->
+    <string name="num_question_6">Question 6</string>
+    <string name="question_6">Which one of the following types of attack intentionally introduced a back door to a system?</string>
+
+    <!--Answers to the question 6-->
+    <string name="passive_attack">Passive attack</string>
+    <string name="active_attack">Active attack</string>
+    <string name="close_in_attack">Close-in attack</string>
+    <string name="insider_attack">Insider attack</string>
+    <string name="distribution_attack">Distribution attack</string>
+
+    <!--Question 7-->
+    <string name="num_question_7">Question 7</string>
+    <string name="Question_7">An organization screens its employees for any previous criminal records, as part of implementation of organizational security. It may be categorized as:</string>
+
+    <!--Answers to the question 7-->
+    <string name="physical_security">Physical security</string>
+    <string name="administrative_security">Administrative security</string>
+    <string name="logical_security">Logical security</string>
+    <string name="vulnerability">Vulnerability</string>
+
+    <!--Question 8-->
+    <string name="num_question_8">Question 8</string>
+    <string name="question_8">Which three of the following are the Confidentiality attack strategies? (Choose 3 best answers)</string>
+
+    <!--Answers to the question 8-->
+    <string name="packet_capture">Packet capture</string>
+    <string name="password_attack">Password attack</string>
+    <string name="dumpster_driving">Dumpster driving</string>
+    <string name="botnet">Botnet</string>
+    <string name="social_engineering">Social engineering</string>
+    <string name="tcpsyn_flood">TCPSYN Flood</string>
+
+    <!--Question 9-->
+    <string name="num_question_9">Question 9</string>
+    <string name="question_9">Which of the following are the Integrity attacks? (Choose 3 best answers)</string>
+
+    <!--Answers to the question 9-->
+    <string name="data_diddling">Data diddling</string>
+    <!--Rest of the answers to question 9 to watch in the answer to question 8 above-->
+
+    <!--Question 10-->
+    <string name="num_question_10">Question 10</string>
+    <string name="question_10">Which of the following are the attacks on availability of a resource? (Choose 2 best answers)</string>
+
+    <!--Answers to the question 9-->
+    <string name="denial_of_service">Denial of Service</string>
+    <!--Rest of the answers to question 10 to watch in the answer to question 8 above-->
+
+    <!--Button "End Test"-->
+    <string name="end_test">End test</string>
+
+    <!--Test Result-->
+    <string name="test_result_name">"Name: "</string>
+    <string name="test_result">Test Result</string>
+    <string name="test_result_score">"Score: "</string>
+
+
+
+</resources>

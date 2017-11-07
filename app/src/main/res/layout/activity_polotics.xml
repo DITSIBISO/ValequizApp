@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/scroll"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#FAF0BE"
+        tools:context="com.example.android.valequizapp.MainActivity">
+
+        <!--Name Input-->
+        <EditText
+            android:id="@+id/name_field_Polotics"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/enter_your_name"
+            android:inputType="textCapWords" />
+
+        <!--Question 1-->
+        <TextView
+            style="@style/HeaderTextStyle"
+            android:text="@string/num_question_1.1" />
+
+        <TextView
+            style="@style/CategoryStyle"
+            android:layout_marginBottom="8dp"
+            android:layout_marginLeft="24dp"
+            android:layout_marginRight="24dp"
+            android:background="#FF007F"
+            android:text="@string/question_1.1" />
+
+        <CheckBox
+            android:id="@+id/redundancyy_checkbox"
+            style="@style/Checkbox_Answer"
+            android:text="@string/redundancyy" />
+
+        <CheckBox
+            android:id="@+id/availabilityy_checkbox"
+            style="@style/Checkbox_Answer"
+            android:text="@string/availabilityy" />
+
+        <CheckBox
+            android:id="@+id/integrityy_checkbox"
+            style="@style/Checkbox_Answer"
+            android:text="@string/integrity" />
+
+        <CheckBox
+            android:id="@+id/confidentialityy_checkbox"
+            style="@style/Checkbox_Answer"
+            android:text="@string/confidentialityy" />
+
+        <CheckBox
+            android:id="@+id/remote_accesss_checkbox"
+            style="@style/Checkbox_Answer"
+            android:text="@string/remote_accesss" />
+
+        <!--Line-->
+        <View style="@style/Line"></View>
+
+        <!--Question 2-->
+        <TextView
+            style="@style/HeaderTextStyle"
+            android:text="@string/num_question_2.1" />
+
+        <TextView
+
+            style="@style/CategoryStyle"
+
+            android:layout_marginBottom="8dp"
+            android:layout_marginLeft="24dp"
+            android:layout_marginRight="24dp"
+            android:background="#006B3C"
+            android:text="@string/question_2.1" />
+
+        <RadioGroup
+            android:id="@+id/question_22"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <RadioButton
+                android:id="@+id/answer_2_1_1radiobutton"
+                style="@style/RadioButton_Answer"
+                android:text="@string/answer_2_1_1" />
+
+            <RadioButton
+                android:id="@+id/answer_2_2_2radiobutton"
+                style="@style/RadioButton_Answer"
+                android:text="@string/answer_2_2_2" />
+
+            <RadioButton
+                android:id="@+id/answer_2_3_3radiobutton"
+                style="@style/RadioButton_Answer"
+                android:text="@string/answer_2_3_3" />
+
+            <RadioButton
+                android:id="@+id/answer_2_4_4radiobutton"
+                style="@style/RadioButton_Answer"
+                android:text="@string/answer_2_4_4" />
+        </RadioGroup>
+
+        <!--Line-->
+        <View style="@style/Line">
+
+        </View>
+
+        <!--Question 3-->
+        <TextView
+            style="@style/HeaderTextStyle"
+            android:text="@string/num_question_3.1" />
+
+        <TextView
+            style="@style/CategoryStyle"
+            android:layout_marginBottom="8dp"
+            android:layout_marginLeft="24dp"
+            android:layout_marginRight="24dp"
+            android:background="#7B3F00"
+            android:text="@string/question_3.1" />
+
+        <RadioGroup
+            android:id="@+id/question_33"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <RadioButton
+                android:id="@+id/tech_radiobutton"
+                style="@style/RadioButton_Answer"
+                android:text="@string/tech" />
+
+            <RadioButton
+                android:id="@+id/tech2_radiobutton"
+                style="@style/RadioButton_Answer"
+                android:text="@string/tech1" />
+
+            <RadioButton
+                android:id="@+id/tech3_radiobutton"
+                style="@style/RadioButton_Answer"
+                android:text="@string/tech2" />
+
+            <RadioButton
+                android:id="@+id/tech4_radiobutton"
+                style="@style/RadioButton_Answer"
+                android:text="@string/tech3" />
+
+
+        </RadioGroup>
+
+        <!--Line-->
+        <View style="@style/Line"></View>
+
+        <!--Question 4-->
+        <TextView
+            style="@style/HeaderTextStyle"
+            android:text="@string/num_question_4_1.1" />
+
+        <TextView
+            style="@style/CategoryStyle"
+            android:layout_marginBottom="8dp"
+            android:layout_marginLeft="24dp"
+            android:layout_marginRight="24dp"
+            android:background="#734F96"
+            android:text="@string/question_4.1.1" />
+
+        <CheckBox
+            android:id="@+id/redundancy11_checkbox"
+            style="@style/Checkbox_Answer"
+            android:text="@string/redundancy11" />
+
+        <CheckBox
+            android:id="@+id/redundancy22_checkbox"
+            style="@style/Checkbox_Answer"
+            android:text="@string/redundancy22" />
+
+        <CheckBox
+            android:id="@+id/redundancy33_checkbox"
+            style="@style/Checkbox_Answer"
+            android:text="@string/redundancy33" />
+
+        <CheckBox
+            android:id="@+id/redundancy44_checkbox"
+            style="@style/Checkbox_Answer"
+            android:text="@string/redundancy44" />
+
+
+        <!--Line-->
+        <View style="@style/Line"></View>
+
+
+        <!--Question 5-->
+        <TextView
+            style="@style/HeaderTextStyle"
+            android:text="@string/num_question_51" />
+
+        <TextView
+            style="@style/CategoryStyle"
+
+            android:layout_marginBottom="8dp"
+            android:layout_marginLeft="24dp"
+            android:layout_marginRight="24dp"
+            android:background="#FD8E09"
+            android:text="@string/question_51" />
+
+        <CheckBox
+            android:id="@+id/answer_5_1_1_1_1checkbox"
+            style="@style/Checkbox_Answer"
+            android:text="@string/answer_5_1_1_1" />
+
+        <CheckBox
+            android:id="@+id/answer_5_2_2_1_1checkbox"
+            style="@style/Checkbox_Answer"
+            android:text="@string/answer_5_2_2_1" />
+
+        <CheckBox
+            android:id="@+id/answer_5_3_3_3_1checkbox"
+            style="@style/Checkbox_Answer"
+            android:text="@string/answer_5_3_3_3_1" />
+
+        <CheckBox
+            android:id="@+id/answer_5_4_4_4_1checkbox"
+            style="@style/Checkbox_Answer"
+            android:text="@string/answer_5_4_4_4_1" />
+
+        <CheckBox
+            android:id="@+id/answer_5_5_5_5_1checkbox"
+            style="@style/Checkbox_Answer"
+            android:text="@string/answer_5_5_5_5_1" />
+
+        <!--Line-->
+        <View style="@style/Line"></View>
+
+
+
+
+        <Button
+            android:id="@+id/end_test_button_polotics"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:onClick="end_Test"
+            android:text="@string/end_test" />
+
+        <!--Line-->
+        <View style="@style/Line"></View>
+
+        <TextView
+            style="@style/HeaderTextStyle"
+            android:text="@string/test_result" />
+
+        <TextView
+            android:id="@+id/test_result_text_view_polotics"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text=" "
+            android:textColor="@android:color/black" />
+
+    </LinearLayout>
+</ScrollView>
